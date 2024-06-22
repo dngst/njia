@@ -1,5 +1,7 @@
 # Beliefs
 
+[prev](./karma)
+
 A persons core beliefs are a deeply personal matter based on how someones life is unfolding.
 
 One may decided to take up an organised religion as what they would like to follow.

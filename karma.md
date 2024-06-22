@@ -1,5 +1,7 @@
 # Karma
 
+[next](./core)
+
 It has been defined as "the result of activity". 
 
 When not disregarded, it's mostly thought as a punishment and reward system.
