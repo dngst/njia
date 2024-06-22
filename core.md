@@ -1,10 +1,10 @@
 # Beliefs
 
-[prev](./karma)
+[prev](./karma.md)
 
 A persons core beliefs are a deeply personal matter based on how someones life is unfolding.
 
-One may decided to take up an organised religion as what they would like to follow.
+One may decide to take up an organised religion as what they would like to follow.
 
 This might just be what they personally need at that time in their life.
 
@@ -26,9 +26,9 @@ But it's all chaos.
 
 People exist in different realities and are on different timelines.
 
-We can still meet on human level to at least have a conversation or get some work done.
+We can still meet on a human level to at least have a conversation or get some work done.
 
-Of course there's the issue of power plays in the day to day depending where you live out your human life.
+Of course there's the issue of power plays in the day to day depending on where you live out your human life.
 
 Having a certain mentality up your sleeve can help you rise above the pendulum swing and mitigate certain situations.
 
